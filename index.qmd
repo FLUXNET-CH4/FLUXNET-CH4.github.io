@@ -1,0 +1,29 @@
+---
+about:
+  template: jolla
+  id: about-block
+  #image: "img/FLUXNET-CH4_locations_global_map_w_legend.png"
+  # links:
+  #   - icon: twitter
+  #     text: Twitter
+  #     href: https://twitter.com/MarvinSchmittML
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com/marvinschmitt
+  #   - icon: linkedin
+  #     text: LinkedIn
+  #     href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+  #   - icon: envelope
+  #     text: Email
+  #     href: "mailto:mail.marvinschmitt@gmail.com"  
+---
+
+::: {#about-block}
+:::
+![](img/FLUXNET-CH4_locations_global_map_w_legend.png)
+
+# FLUXNET-CH4 
+
+FLUXNET-CH4 is an initiative led by the Global Carbon Project, in close partnership with AmeriFlux and EuroFlux, to compile a global database of eddy covariance (EC) methane flux measurements. On this webpage you will find more information about the initiative, links to the dataset, publications leveraging the dataset, and more information for those interested in submitting their data to FLUXNET-CH4 V2.0.  
+
+
