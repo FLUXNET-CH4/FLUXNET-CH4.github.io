@@ -10,6 +10,6 @@ about:
 
 # FLUXNET-CH4 
 
-FLUXNET-CH4 is an initiative led by the Global Carbon Project, in close partnership with AmeriFlux and EuroFlux, to compile a global database of eddy covariance (EC) methane flux measurements. On this webpage you will find more information about the initiative, links to the dataset, publications leveraging the dataset, and more information for those interested in submitting their data to FLUXNET-CH4 V2.0.  
+FLUXNET-CH4 is an initiative led by the [Global Carbon Project](https://www.globalcarbonproject.org/), in close partnership with [AmeriFlux](https://ameriflux.lbl.gov/) and [EuroFlux](http://www.europe-fluxdata.eu/home), to compile a global database of eddy covariance (EC) methane flux measurements. On this webpage you will find more information about the initiative, [a link to the data set](https://fluxnet.org/data/fluxnet-ch4-community-product/), publications leveraging the dataset, and more information for those interested in submitting their data to FLUXNET-CH4 V2.0.  
 
 
